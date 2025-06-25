@@ -22,7 +22,7 @@ Many media files have audio or video tracks with undefined language tags. This c
    - On Windows: `C:\Users\YOUR_USERNAME\AppData\Roaming\Tdarr\Plugins\Local\`
    - On Linux: `~/.config/Tdarr/Plugins/Local/`
    - On Docker: `/app/server/Tdarr/Plugins/Local/`
-   - On Proxmox: `/opt/tdarr/server/Tdarr/Plugins/Local/`
+   - Inside Proxmox LXC: `/opt/tdarr/server/Tdarr/Plugins/Local/`
 3. Restart Tdarr or refresh the plugins in the UI
 
 ## Configuration
