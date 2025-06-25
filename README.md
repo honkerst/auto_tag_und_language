@@ -4,7 +4,7 @@ A Tdarr plugin that automatically tags audio and video streams with undefined la
 
 ## Overview
 
-Many media files have audio or video tracks with undefined language tags. This can cause issues with media servers, players, and automated workflows that rely on language tags for proper stream selection. This plugin solves that problem by automatically identifying those undefined streams and tagging them with your preferred language.
+Many media files have audio or video tracks with undefined language tags. This can cause issues with media servers, players, and automated workflows that rely on language tags for proper stream selection. This plugin works around that problem by automatically identifying those undefined streams and tagging them with your preferred language. Obviously this requires that you know what language the media is supposed to be in.
 
 ## Features
 
