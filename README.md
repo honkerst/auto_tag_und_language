@@ -28,5 +28,5 @@ Place `auto_tag_und_language.js` in your Tdarr plugins folder or install via the
 
 ---
 
-**Author**: UnknownWitcher  
+**Author**: UnknownWitcher/HonkersTim
 **Version**: 1.31
