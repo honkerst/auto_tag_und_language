@@ -140,7 +140,7 @@ This plugin is licensed under the MIT License. See the LICENSE file for details.
 ## Credits
 
 - Original author: UnknownWitcher
-- Contributors: [list any contributors here]
+- Contributors: Tim Houghton
 
 ## Changelog
 
